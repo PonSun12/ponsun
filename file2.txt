@@ -1,1 +1,1 @@
-Open TerminalTerminalGit Bash. Change the current working directory to your local project. In the Command prompt, add the URL for the remote repository where your local repository will be pushed. Push the changes in your local repository to GitHub.com.
+Open TerminalTerminalGit Bash. Change the current working directory to your local project. In the Command prompt, add the URL for the remote repository where your local repository will be pushed. Push the changes in your local repository to GitHub.
